@@ -32,6 +32,6 @@ status - Show Users Count in DB. (Admin Only)
 
 Press Below Button to Deploy!
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Jeolpaul/Ultra-Renamer-and-Watermark)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/HappyKidBGMZ/kr-renamer-bot)
 
 # THANK YOU ALL FOR THE SUPPORT 💫
