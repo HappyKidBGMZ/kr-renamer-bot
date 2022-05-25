@@ -7,7 +7,7 @@
         "rename",
         "bot"
     ],
-    "repository": "https://github.com/Jeolpaul/Ultra-Renamer-and-Watermark",
+    "repository": "https://github.com/HappyKidBGMZ/kr-renamer-bot",
     "website": "https://betaofficialbot.blogspot.com/?m=1",
     "success_url": "https://t.me/TG_RENAMERBOT",
     "env": {
